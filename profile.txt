@@ -5,3 +5,11 @@ Gender		: Male
 Age		: 22
 Birthday	: 04-09-2003
 Contacts	:0930 217 8999
+___________________________________
+
+Birth of Place	: Cabadbaran City
+Religion  	: Roman Catholic
+Father's Name	: Crisanto Acido
+Occupation	: Foreman
+Mother's Name	: Precil ACido
+Occupation	: Re Seller
